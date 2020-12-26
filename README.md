@@ -4,3 +4,7 @@ Hello
 
 ## subheader 
 This is my first change 
+
+## local development 
+
+open index.html in your browser 
